@@ -1,0 +1,10 @@
+{
+  "navigationIcons": [
+    { "icon": "IoPawOutline", "label": "Капибара" },
+    { "icon": "FaHome", "label": "Дом" },
+    { "icon": "FaBell", "label": "Уведомления" },
+    { "icon": "FaUserAlt", "label": "Профиль" },
+    { "icon": "FaSignOutAlt", "label": "Выйти" },
+    { "icon": "FaFeatherAlt", "label": "Написать твит" }
+  ]
+}
